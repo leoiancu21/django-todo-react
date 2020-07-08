@@ -25,3 +25,16 @@ body {
 	background-color: #282c34;
 	color: #ffffff;
   }
+  
+  .round { 
+
+	border-radius: 20px;
+	box-shadow: black;
+
+  }
+
+  .round-button {
+
+	border-radius: 10px;
+
+  }
